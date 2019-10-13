@@ -1,7 +1,7 @@
 if 5 >2 :
     print ("five is greater than two")
     
-print("done")
+print("done chamges")
 
 
     
